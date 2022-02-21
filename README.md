@@ -1,5 +1,5 @@
 ## Olá, Sou a Carla Keyse
-- 🔭 Analista de Sistemas Jr.
+- 🔭 Em transição de carreira.
 - :woman_student: Desenvolvedora Front End Júnior - Bootcamp Laboratória Brasil - 6ª geração.
 
 <div align="center">
