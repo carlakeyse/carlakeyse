@@ -1,6 +1,6 @@
 ## Olá, Sou a Carla Keyse
-- 🔭 Em transição de carreira.
-- :woman_student: Estudante Front End Júnior na Laboratória Brasil - 6ª geração.
+- 🔭 Analista de Sistemas Jr.
+- :woman_student: Desenvolvedora Front End Júnior - Bootcamp Laboratória Brasil - 6ª geração.
 
 <div align="center">
   <a href="https://github.com/carlakeyse">
